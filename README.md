@@ -1,4 +1,27 @@
 ### Hi, I'm Sachin  👋
+# Hi, I'm Sachin Acharya 👋
+
+I'm a student passionate about technology and lifelong learning.  
+I have hands-on experience in **C programming**, **Java**, and a growing knowledge of **Python**.  
+Currently, I'm most interested in **Web Development**, and I love exploring new technologies as they're launched!
+
+## 🚀 Skills & Interests
+- **Languages:** C, Java, Python (beginner)
+- **Area of Interest:** Web Development
+- **Always Learning:** I enjoy trying out new frameworks, tools, and keeping up with the latest trends in tech.
+
+## 🌱 What I'm Up To
+- Building my web development skills
+- Exploring modern frameworks and libraries
+- Keeping up with new launches and innovations
+
+## 📫 Connect With Me
+- GitHub: [SachinAcharya28](https://github.com/SachinAcharya28)
+<!-- Add LinkedIn, Twitter, or website links here if you want! -->
+
+---
+
+> “The beautiful thing about learning is that nobody can take it away from you.” – B.B. King
 
 
 <!--
