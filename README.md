@@ -7,7 +7,7 @@ Currently, I'm most interested in **Web Development**, and I love exploring new 
 
 ## 🚀 Skills & Interests
 - **Languages:** C, Java, Python (beginner)
-- **Area of Interest:** Web Development
+- **Area of Interest:** Web Development,AI
 - **Always Learning:** I enjoy trying out new frameworks, tools, and keeping up with the latest trends in tech.
 
 ## 🌱 What I'm Up To
