@@ -1,4 +1,4 @@
-### Hi, I'm Sachin  👋
+
 # Hi, I'm Sachin Acharya 👋
 
 I'm a student passionate about technology and lifelong learning.  
