@@ -15,8 +15,7 @@ Currently, I'm most interested in **Web Development**, and I love exploring new 
 - Exploring modern frameworks and libraries
 - Keeping up with new launches and innovations
 
-## 🔨 Currently Working On
-- Developing the idea that I have in my mind regarding to one of the real world problem  
+
   
 
 ## 📫 Connect With Me
