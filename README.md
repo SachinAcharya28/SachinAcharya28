@@ -25,6 +25,7 @@ Currently, I'm most interested in **Web Development**, and I love exploring new 
 ---
 
 > “The beautiful thing about learning is that nobody can take it away from you.” – B.B. King
+>keep it simple stupid
 
 
 <!--
