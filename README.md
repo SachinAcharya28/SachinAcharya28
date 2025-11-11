@@ -6,7 +6,7 @@ I have hands-on experience in **C programming**, **Java**, and a growing knowled
 Currently, I'm most interested in **Web Development**, and I love exploring new technologies as they're launched!
 
 ## 🚀 Skills & Interests
-- **Languages:** C, Java, Python (beginner)
+- **Languages:** C, Java, Python 
 - **Area of Interest:** Web Development,AI
 - **Always Learning:** I enjoy trying out new frameworks, tools, and keeping up with the latest trends in tech.
 
