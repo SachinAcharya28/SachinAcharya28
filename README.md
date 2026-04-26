@@ -1,8 +1,6 @@
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=44&pause=1200&color=58A6FF&center=true&vCenter=true&width=1350&lines=Hi+👋,+I'm+Sachin+Acharya;Tech+Enthusiast+%26+Lifelong+Learner;Student+Passionate+About+Technology;Experienced+in+C,+Java+%26+Python;Web+Development+Explorer;Always+Exploring+New+Technologies." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=44&pause=1500&color=58A6FF&center=true&vCenter=true&width=1200&lines=Hi+👋,+I'm+Sachin+Acharya;Tech+Enthusiast+%26+Lifelong+Learner;Web+Development+%26+AI+Explorer;Building+skills+one+commit+at+a+time." />
 </p>
-<hr/>
 
 
 <!-- LinkedIn Badge (Tech Stack style) -->
